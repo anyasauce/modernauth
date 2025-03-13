@@ -1,6 +1,6 @@
 # Modern Authentication
 
-A simple and modern frontend starter kit to kickstart your web development projects with essential tools and libraries.
+A sleek and modern authentication starter kit to accelerate your web development projects with essential tools and libraries.
 
 ## Features
 
