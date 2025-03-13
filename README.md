@@ -1,4 +1,4 @@
-# Josiah's Starter Kit
+# Modern Authentication
 
 A simple and modern frontend starter kit to kickstart your web development projects with essential tools and libraries.
 
@@ -24,8 +24,8 @@ A simple and modern frontend starter kit to kickstart your web development proje
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/anyasauce/josiahstarterkit.git
-cd josiahstarterkit
+git clone https://github.com/anyasauce/modernauth.git
+cd modernauth
 ```
 
 ### Open in Browser
@@ -40,13 +40,14 @@ Open the `index.html` file in your preferred browser to view the project.
 ## Structure
 
 ```
-josiahstarterkit/
+modernauth/
 ├── index.html
 └── assets/
     ├── css/
     │    └── main.css
     ├── js/
     │    └── main.js
+    ├── images/
     └── vendor/
         ├── bootstrap/
         │    ├── bootstrap5.min.css
